@@ -1,0 +1,829 @@
+{
+"alpha": {
+  "lane": "exp",
+  "strong": ["phoveus","terizla","eudora","barats","alucard"],
+  "weak": ["benedetta","diggie","mathilda","x_borg","yve"],
+  "synergy": ["khaleed","arlott","phoveus","terizla","gatotkaca"]
+},
+
+"aldous": {
+  "lane": "exp",
+  "strong": ["sun","novaria","x_borg","helcurt","hanzo"],
+  "weak": ["lukas","esmeralda","valentina","mathilda","melissa"],
+  "synergy": ["baxia","faramis","x_borg","gloo","tigreal"]
+},
+
+"alice": {
+  "lane": "exp",
+  "strong": ["gloo","atlas","chip","tigreal","akai"],
+  "weak": ["angela","floryn","karrie","aulus","estes"],
+  "synergy": ["angela","valentina","faramis","natalia","clint"]
+},
+
+"argus": {
+  "lane": "exp",
+  "strong": ["masha","saber","aulus","gord","karrie"],
+  "weak": ["ruby","esmeralda","fredrinn","mathilda","terizla"],
+  "synergy": ["x_borg","gloo","kaja","hilda","baxia"]
+},
+
+"arlott": {
+  "lane": "exp",
+  "strong": ["x_borg","ruby","kimmy","zhuxin","natan"],
+  "weak": ["zhask","sun","phoveus","layla","argus"],
+  "synergy": ["sun","aulus","leomord","bane","mathilda"]
+},
+
+"badang": {
+  "lane": "exp",
+  "strong": ["paquito","fanny","sun","kaja","leomord"],
+  "weak": ["phoveus","chip","esmeralda","alice","silvanna"],
+  "synergy": ["x_borg","sun","valentina","phoveus","arlott"]
+},
+
+"balmond": {
+  "lane": "exp",
+  "strong": ["khufra","masha","lukas","chip","eudora"],
+  "weak": ["x_borg","cici","estes","angela","valir"],
+  "synergy": ["masha","badang","angela","aldous","phoveus"]
+},
+
+"bane": {
+  "lane": "exp",
+  "strong": ["faramis","khufra","lunox","wanwan","odette"],
+  "weak": ["lolita","masha","terizla","valentina","hanzo"],
+  "synergy": ["arlott","khaleed","paquito","cici","brody"]
+},
+
+"benedetta": {
+  "lane": "exp",
+  "strong": ["alpha","x_borg","gloo","gord","estes"],
+  "weak": ["phoveus","masha","saber","irithel","cici"],
+  "synergy": ["masha","aulus","floryn","angela","sun"]
+},
+
+"cici": {
+  "lane": "exp",
+  "strong": ["thamuz","balmond","alice","benedetta","gloo"],
+  "weak": ["sun","aamon","estes","x_borg","masha"],
+  "synergy": ["sun","x_borg","bane","guinevere","aulus"]
+},
+
+"chou": {
+  "lane": "exp",
+  "strong": ["x_borg","hanzo","fanny","ixia","natalia"],
+  "weak": ["phoveus","esmeralda","cyclops","faramis","obsidia"],
+  "synergy": ["barats","aulus","minotaur","sun","bane"]
+},
+
+"dyrroth": {
+  "lane": "exp",
+  "strong": ["esmeralda","uranus","alice","diggie","alucard"],
+  "weak": ["mathilda","ixia","argus","tigreal","guinevere"],
+  "synergy": ["khaleed","leomord","chip","yve","luo_yi"]
+},
+
+"edith": {
+  "lane": "exp",
+  "strong": ["silvanna","harith","wanwan","chip","lunox"],
+  "weak": ["hanzo","barats","lolita","luo_yi","baxia"],
+  "synergy": ["lolita","mathilda","faramis","natalia","khufra"]
+},
+
+"esmeralda": {
+  "lane": "exp",
+  "strong": ["lolita","argus","mathilda","lapu_lapu","paquito"],
+  "weak": ["dyrroth","aulus","karrie","lunox","alice"],
+  "synergy": ["suyou","aulus","nolan","diggie","helcurt"]
+},
+
+"freya": {
+  "lane": "exp",
+  "strong": ["x_borg","chip","mathilda","diggie","harith"],
+  "weak": ["phoveus","minsitthar","baxia","belerick","thamuz"],
+  "synergy": ["grock","guinevere","luo_yi","diggie","benedetta"]
+},
+
+"gatotkaca": {
+  "lane": "exp",
+  "strong": ["miya","odette","atlas","zilong","hanabi"],
+  "weak": ["lesley","baxia","x_borg","mathilda","floryn"],
+  "synergy": ["aulus","faramis","angela","minsitthar","zilong"]
+},
+
+"gloo": {
+  "lane": "exp",
+  "strong": ["aamon","aurora","kaja","khufra","brody"],
+  "weak": ["faramis","alice","natan","ling","wanwan"],
+  "synergy": ["masha","argus","aldous","zilong","kaja"]
+},
+
+"grock": {
+  "lane": "exp",
+  "strong": ["khufra","lolita","masha","popol_and_kupa","yin"],
+  "weak": ["esmeralda","alice","angela","hanzo","claude"],
+  "synergy": ["masha","faramis","bruno","freya"]
+},
+
+"guinevere": {
+  "lane": "exp",
+  "strong": ["lylia","suyou","julian","karrie","yve"],
+  "weak": ["khufra","wanwan","masha","diggie","argus"],
+  "synergy": ["lapu_lapu","ruby","sun","argus","chip"]
+},
+
+"hilda": {
+  "lane": "exp",
+  "strong": ["nolan","granger","diggie","ling","paquito"],
+  "weak": ["karrie","aamon","melissa","sun","phoveus"],
+  "synergy": ["argus","guinevere","sun","x_borg","silvanna"]
+},
+
+"jawhead": {
+  "lane": "exp",
+  "strong": ["masha","nolan","zilong","karina","natalia"],
+  "weak": ["sun","lolita","esmeralda","zhask","gloo"],
+  "synergy": ["chip","lolita","sun","argus","estes"]
+},
+
+"khaleed": {
+  "lane": "exp",
+  "strong": ["gloo","diggie","yve","valir","yin"],
+  "weak": ["faramis","phoveus","barats","harith","odette"],
+  "synergy": ["khufra","aulus","faramis","valentina","bane"]
+},
+
+"lapu_lapu": {
+  "lane": "exp",
+  "strong": ["faramis","argus","minotaur","atlas","popol_and_kupa"],
+  "weak": ["esmeralda","karrie","harith","kaja","claude"],
+  "synergy": ["floryn","sun","guinevere","kaja","diggie"]
+},
+
+"lukas": {
+  "lane": "exp",
+  "strong": ["masha","aldous","natalia","ling","joy"],
+  "weak": ["baxia","phoveus","balmond","cici","thamuz"],
+  "synergy": ["chip","angela","joy","kaja","benedetta"]
+},
+
+"masha": {
+  "lane": "exp",
+  "strong": ["yu_zhong","saber","baxia","brody","diggie"],
+  "weak": ["valentina","terizla","faramis","popol_and_kupa","argus"],
+  "synergy": ["fanny","benedetta","akai","gloo","balmond"]
+},
+
+"minsitthar": {
+  "lane": "exp",
+  "strong": ["freya","valentina","kaja","harith","estes"],
+  "weak": ["baxia","natalia","barats","irithel","belerick"],
+  "synergy": ["minotaur","estes","mathilda","atlas","johnson"]
+},
+
+"paquito": {
+  "lane": "exp",
+  "strong": ["natalia","x_borg","wanwan","gord","benedetta"],
+  "weak": ["phoveus","chip","barats","esmeralda","alice"],
+  "synergy": ["valentina","leomord","lolita","sun","khaleed"]
+},
+
+"phoveus": {
+  "lane": "exp",
+  "strong": ["wanwan","harith","freya","benedetta","valentina"],
+  "weak": ["alpha","x_borg","aulus","angela","gord"],
+  "synergy": ["aulus","angela","sun","badang","x_borg"]
+},
+
+"ruby": {
+  "lane": "exp",
+  "strong": ["sun","argus","gloo","masha","zhask"],
+  "weak": ["phoveus","x_borg","gord","arlott","ixia"],
+  "synergy": ["faramis","guinevere","joy","masha","harith"]
+},
+
+"silvanna": {
+  "lane": "exp",
+  "strong": ["aamon","sun","angela","rafaela","valentina"],
+  "weak": ["barats","edith","terizla","masha","benedetta"],
+  "synergy": ["khaleed","kaja","natalia","estes","rafaela"]
+},
+
+"sun": {
+  "lane": "exp",
+  "strong": ["cici","diggie","saber","eudora","masha"],
+  "weak": ["ruby","faramis","alucard","natan","aldous"],
+  "synergy": ["arlott","yu_zhong","lapu_lapu","x_borg","paquito"]
+},
+
+"terizla": {
+  "lane": "exp",
+  "strong": ["masha","argus","silvanna","baxia","eudora"],
+  "weak": ["x_borg","karrie","gord","diggie","alpha"],
+  "synergy": ["mathilda","x_borg","estes","angela","aamon"]
+},
+
+"thamuz": {
+  "lane": "exp",
+  "strong": ["esmeralda","alucard","alice","odette","lukas"],
+  "weak": ["cici","baxia","valir","x_borg","benedetta"],
+  "synergy": ["guinevere","kaja","natalia","faramis","yve"]
+},
+
+"uranus": {
+  "lane": "exp",
+  "strong": ["faramis","lapu_lapu","granger","masha","argus"],
+  "weak": ["estes","karrie","ixia","dyrroth","angela"],
+  "synergy": ["faramis","angela","luo_yi","valentina","wanwan"]
+},
+
+"x_borg": {
+  "lane": "exp",
+  "strong": ["barats","baxia","terizla","chip","ruby"],
+  "weak": ["zilong","valentina","joy","paquito","freya"],
+  "synergy": ["argus","aldous","terizla","sun","badang"]
+},
+
+
+"yu_zhong": {
+  "lane": "exp",
+  "strong": ["gloo","lolita","ruby","minotaur","silvanna"],
+  "weak": ["masha","karrie","cici","wanwan","edith"],
+  "synergy": ["sun","suyou","angela","aulus","floryn"]
+},
+
+"zilong": {
+  "lane": "exp",
+  "strong": ["x_borg","fanny","hanzo","angela","novaria"],
+  "weak": ["eudora","karina","lukas","gatotkaca","tigreal"],
+  "synergy": ["gloo","baxia","belerick","kaja","x_borg"]
+},
+
+
+
+
+  
+  "aamon": {
+    "lane": "jungle",
+    "weak": ["gusion", "hayabusa", "paquito", "saber", "x_borg"],
+    "strong": ["beatrix", "harley", "layla", "miya", "valir"]
+  },
+  
+  "alucard": {
+    "lane": "jungle",
+    "weak": ["eudora", "fanny", "freya", "saber", "zhask"],
+    "strong": ["lancelot", "layla", "sun", "yi_sun_shin", "zilong"]
+  },
+  "aulus": {
+    "lane": "jungle",
+    "weak": ["jawhead", "masha", "phoveus", "valir", "wanwan"],
+    "strong": ["barats", "esmeralda", "mathilda", "yu_zhong", "yve"]
+  },
+  "barats": {
+    "lane": "jungle",
+    "weak": ["angela", "esmeralda", "karrie", "valir", "x_borg"],
+    "strong": ["badang", "khaleed", "luo_yi", "natalia", "zhask"]
+  },
+  "baxia": {
+    "lane": "jungle",
+    "weak": ["grock", "harley", "kagura", "lesley", "gusion"],
+    "strong": ["alice", "eudora", "layla", "miya", "saber"]
+  },
+  "fanny": {
+    "lane": "jungle",
+    "weak": ["akai", "chou", "eudora", "franco", "phoveus"],
+    "strong": ["bruno", "karina", "layla", "natalia", "estes"]
+  },
+  "fredrinn": {
+    "lane": "jungle",
+    "weak": ["arlott", "aamon", "helcurt", "paquito", "roger"],
+    "strong": ["brody", "mathilda", "natan", "valentina", "yve"]
+  },
+  "granger": {
+    "lane": "jungle",
+    "weak": ["fanny", "gusion", "guinevere", "helcurt", "saber"],
+    "strong": ["claude", "esmeralda", "hanabi", "khufra", "kimmy"]
+  },
+  "hanzo": {
+    "lane": "jungle",
+    "weak": ["aldous", "fanny", "helcurt", "ling", "natalia"],
+    "strong": ["gord", "hanabi", "karrie", "layla", "pharsa"]
+  },
+  "harley": {
+    "lane": "jungle",
+    "weak": ["eudora", "jawhead", "hayabusa", "saber", "vale"],
+    "strong": ["alice", "gatotkaca", "johnson", "layla", "nana"]
+  },
+  "hayabusa": {
+    "lane": "jungle",
+    "weak": ["chou", "kaja", "minsitthar", "natalia", "saber"],
+    "strong": ["eudora", "gord", "layla", "miya", "yi_sun_shin"]
+  },
+  "helcurt": {
+    "lane": "jungle",
+    "weak": ["argus", "karina", "mnsitthar", "natalia", "hayabusa"],
+    "strong": ["layla", "miya", "odette", "cyclops", "zhask"]
+  },
+  "joy": {
+    "lane": "jungle",
+    "weak": ["barats", "franco", "kaja", "minsitthar", "phoveus"],
+    "strong": ["aulus", "lesley", "natan", "valentina", "yin"]
+  },
+  "julian": {
+    "lane": "jungle",
+    "weak": ["aamon", "helcurt", "paquito", "roger", "yu_zhong"],
+    "strong": ["brody", "mathilda", "valentina", "yve", "yin"]
+  },
+  "karina": {
+    "lane": "jungle",
+    "weak": ["akai", "eudora", "franco", "natalia", "ruby"],
+    "strong": ["layla", "miya", "nana", "clint", "zilong"]
+  },
+  "lancelot": {
+    "lane": "jungle",
+    "weak": ["argus", "fanny", "grock", "saber", "yin"],
+    "strong": ["cyclops", "eudora", "layla", "natalia", "odette"]
+  },
+  "leomord": {
+    "lane": "jungle",
+    "weak": ["alpha", "chou", "jawhead", "melissa", "minsitthar"],
+    "strong": ["hanabi", "layla", "martis", "pharsa", "thamuz"]
+  },
+  "ling": {
+    "lane": "jungle",
+    "weak": ["akai", "chou", "gusion", "khufra", "valir"],
+    "strong": ["granger", "hayabusa", "kagura", "layla", "wanwan"]
+  },
+  "martis": {
+    "lane": "jungle",
+    "weak": ["baxia", "franco", "kaja", "minsitthar", "phoveus"],
+    "strong": ["helcurt", "miya", "natalia", "pharsa", "zhask"]
+  },
+  "nolan": {
+    "lane": "jungle",
+    "weak": ["franco", "gatotkaca", "khufra", "minsitthar", "phoveus"],
+    "strong": ["badang", "hanabi", "novaria", "silvanna", "yin"]
+  },
+  "popol_and_kupa": {
+    "lane": "jungle",
+    "weak": ["esmeralda", "gusion", "natalia", "silvanna", "nolan"],
+    "strong": ["granger", "kimmy", "layla", "wanwan", "zhask"]
+  },
+  "roger": {
+    "lane": "jungle",
+    "weak": ["alucard", "aurora", "jawhead", "martis", "silvanna"],
+    "strong": ["layla", "lapu_lapu", "sun", "yi_sun_shin", "zilong"]
+  },
+  "saber": {
+    "lane": "jungle",
+    "weak": ["argus", "belerick", "diggie", "freya", "valir"],
+    "strong": ["bruno", "gord", "layla", "miya", "nana"]
+  },
+  "suyou": {
+    "lane": "jungle",
+    "weak": ["franco", "kaja", "thamuz", "x_borg", "yin"],
+    "strong": ["layla", "nana", "novaria", "ruby", "zhuxin"]
+  },
+  "yi_sun_shin": {
+    "lane": "jungle",
+    "weak": ["alucard", "eudora", "fanny", "hayabusa", "karina"],
+    "strong": ["chou", "nana", "rafaela", "sun", "zilong"]
+  },
+  "yin": {
+    "lane": "jungle",
+    "weak": ["argus", "jawhead", "phoveus", "sun", "thamuz"],
+    "strong": ["brody", "natan", "valentina", "vale", "yu_zhong"]
+  },
+
+
+  
+  "aurora": {
+  "lane": "mid",
+  "strong": ["lolita","rafaela","barats","eudora","odette"],
+  "weak": ["gloo","luo_yi","benedetta","yin","hanzo"],
+  "synergy": ["valentina","luo_yi","mathilda","angela","yve"]
+},
+
+"lunox": {
+  "lane": "mid",
+  "strong": ["mathilda","gloo","esmeralda","atlas","wanwan"],
+  "weak": ["zhask","edith","popol_and_kupa","bane","ruby"],
+  "synergy": ["zetian","diggie","novaria","floryn","yve"]
+},
+
+"zhuxin": {
+  "lane": "mid",
+  "strong": ["lolita","khufra","valentina","natalia","chip"],
+  "weak": ["barats","diggie","zhask","belerick","arlott"],
+  "synergy": ["selena","novaria","harith","khufra","helcurt"]
+},
+
+"nana": {
+  "lane": "mid",
+  "strong": ["lolita","odette","silvanna","edith","melissa"],
+  "weak": ["hylos","akai","yve","yi_sun_shin","joy"],
+  "synergy": ["valentina","harley","alice","julian","harith"]
+},
+
+"eudora": {
+  "lane": "mid",
+  "strong": ["natalia","valentina","zilong","harley","wanwan"],
+  "weak": ["barats","sun","fredrinn","atlas","terizla"],
+  "synergy": ["yve","novaria","baxia","chip","selena"]
+},
+
+"gord": {
+  "lane": "mid",
+  "strong": ["barats","lolita","fredrinn","yve","phoveus"],
+  "weak": ["natalia","ling","masha","benedetta","hanzo"],
+  "synergy": ["valentina","fredrinn","estes","roger","miya"]
+},
+
+"kagura": {
+  "lane": "mid",
+  "strong": ["lolita","suyou","x_borg","valir","kadita"],
+  "weak": ["valentina","obsidia","joy","faramis","phoveus"],
+  "synergy": ["novaria","leomord","harley","chip","masha"]
+},
+
+"cyclops": {
+  "lane": "mid",
+  "strong": ["joy","natalia","wanwan","ling","mathilda"],
+  "weak": ["lolita","estes","sun","barats","popol_and_kupa"],
+  "synergy": ["masha","harley","xavier","hanzo","yve"]
+},
+
+"vexana": {
+  "lane": "mid",
+  "strong": ["lolita","chip","gloo","zhask","sun"],
+  "weak": ["faramis","alice","mathilda","x_borg","hanzo"],
+  "synergy": ["harley","atlas","chip","zhask","yve"]
+},
+
+"odette": {
+  "lane": "mid",
+  "strong": ["mathilda","natalia","khaleed","aamon","harith"],
+  "weak": ["phoveus","nana","minotaur","fredrinn","gatotkaca"],
+  "synergy": ["faramis","floryn","lolita","rafaela","harley"]
+},
+
+"pharsa": {
+  "lane": "mid",
+  "strong": ["lolita","diggie","melissa","valir","baxia"],
+  "weak": ["masha","natalia","faramis","yin","leomord"],
+  "synergy": ["fredrinn","harley","baxia","alice","harith"]
+},
+
+"gusion": {
+  "lane": "mid",
+  "strong": ["yve","x_borg","aamon","suyou","valir"],
+  "weak": ["eudora","lolita","alucard","harith","hilda"],
+  "synergy": ["faramis","zhuxin","lylia","yve","novaria"]
+},
+
+"valir": {
+  "lane": "mid",
+  "strong": ["fredrinn","barats","valentina","alice","balmond"],
+  "weak": ["rafaela","helcurt","harley","x_borg","ling"],
+  "synergy": ["harley","argus","saber","moskov","wanwan"]
+},
+
+"chang_e": {
+  "lane": "mid",
+  "strong": ["masha","x_borg","diggie","gord","gatotkaca"],
+  "weak": ["lolita","baxia","claude","valentina","gloo"],
+  "synergy": ["valentina","harley","novaria","harith","gusion"]
+},
+
+"kimmy": {
+  "lane": "mid",
+  "strong": ["sun","barats","uranus","hylos","hanzo"],
+  "weak": ["lolita","karina","natalia","arlott","odette"],
+  "synergy": ["fanny","ixia","estes","brody","floryn"]
+},
+
+"lylia": {
+  "lane": "mid",
+  "strong": ["chip","aulus","masha","alpha","alice"],
+  "weak": ["kaja","wanwan","valentina","harith","guinevere"],
+  "synergy": ["bruno","harith","harley","vale","brody"]
+},
+
+"cecilion": {
+  "lane": "mid",
+  "strong": ["lolita","barats","ruby","aulus","diggie"],
+  "weak": ["hanzo","hayabusa","yin","zilong","kaja"],
+  "synergy": ["harith","harley","paquito","alice","carmilla"]
+},
+
+"luo_yi": {
+  "lane": "mid",
+  "strong": ["estes","faramis","bruno","popol_and_kupa","akai"],
+  "weak": ["hanzo","beatrix","novaria","natalia","masha"],
+  "synergy": ["valentina","mathilda","aurora","diggie","uranus"]
+},
+
+"valentina": {
+  "lane": "mid",
+  "strong": ["masha","faramis","atlas","lolita","fanny"],
+  "weak": ["phoveus","minsitthar","aulus","zhuxin","yve"],
+  "synergy": ["luo_yi","yve","aurora","gord","diggie"]
+},
+
+"xavier": {
+  "lane": "mid",
+  "strong": ["kaja","barats","carmilla","atlas","phoveus"],
+  "weak": ["natalia","helcurt","moskov","aldous","angela"],
+  "synergy": ["harith","mathilda","yve","julian","cyclops"]
+},
+
+"zhask": {
+  "lane": "mid",
+  "strong": ["masha","diggie","zhuxin","lunox","lolita"],
+  "weak": ["alice","barats","ruby","aulus","belerick"],
+  "synergy": ["faramis","zetian","luo_yi","harley","beatrix"]
+},
+
+"selena": {
+  "lane": "mid",
+  "strong": ["kadita","x_borg","gord","melissa","xavier"],
+  "weak": ["wanwan","popol_and_kupa","masha","hylos","obsidia"],
+  "synergy": ["zhuxin","barats","yi_sun_shin","cyclops","zhask"]
+},
+
+"vale": {
+  "lane": "mid",
+  "strong": ["cyclops","odette","bane","popol_and_kupa","silvanna"],
+  "weak": ["khaleed","gloo","hilda","minotaur","kaja"],
+  "synergy": ["lylia","chip","kaja","aulus","hilda"]
+},
+
+"harith": {   
+  "lane": "mid",
+  "strong": ["lolita","khaleed","natalia","lylia","lapu_lapu"],
+  "weak": ["phoveus","aulus","popol_and_kupa","edith","bruno"],
+  "synergy": ["leomord","yve","baxia","mathilda","lylia"]
+},
+
+"kadita": {
+  "lane": "mid",
+  "strong": ["lolita","ixia","hanzo","atlas","johnson"],
+  "weak": ["valentina","wanwan","diggie","selena","alice"],
+  "synergy": ["masha","leomord","mathilda","chip","zetian"]
+},
+
+"faramis": {
+  "lane": "mid",
+  "strong": ["gloo","masha","khufra","sun","khaleed"],
+  "weak": ["valentina","chip","uranus","estes","floryn"],
+  "synergy": ["lolita","zhask","uranus","khaleed","yve"]
+},
+
+"yve": {
+  "lane": "mid",
+  "strong": ["lolita","khufra","valentina","aulus","barats"],
+  "weak": ["hayabusa","fanny","hanzo","harley","gord"],
+  "synergy": ["valentina","estes","harith","chip","eudora"]
+},
+
+"novaria": {
+  "lane": "mid",
+  "strong": ["luo_yi","leomord","barats","phoveus","baxia"],
+  "weak": ["natalia","aldous","chip","zhuxin","hayabusa"],
+  "synergy": ["zhuxin","kagura","lunox","barats","khufra"]
+},
+
+
+
+  
+  "akai": {
+    "lane": "roam",
+    "weak": ["diggie", "odette", "karrie", "valir", "valentina"],
+    "strong": ["alice", "clint", "gord", "layla", "nana"]
+  },
+  "angela": {
+    "lane": "roam",
+    "weak": ["harley", "kagura", "lancelot", "lesley", "natalia"],
+    "strong": ["estes", "eudora", "gord", "layla", "vexana"]
+  },
+  "atlas": {
+    "lane": "roam",
+    "weak": ["akaj", "diggie", "kaja", "karrie", "valir"],
+    "strong": ["kadita", "kimmy", "ling", "masha", "silvanna"]
+  },
+  "belerick": {
+    "lane": "roam",
+    "weak": ["dyrroth", "karrie", "martis", "thamuz", "x_borg"],
+    "strong": ["eudora", "gusion", "hayabusa", "nana", "saber"]
+  },
+  "carmilla": {
+    "lane": "roam",
+    "weak": ["baxia", "harith", "sun", "wanwan", "ziling"],
+    "strong": ["aurora", "julian", "karrie", "pharsa", "gusion"]
+  },
+  "chip": {
+    "lane": "roam",
+    "weak": ["franco", "lesley", "moskov", "wanwan", "baxia"],
+    "strong": ["gusion", "layla", "nolan", "paquito", "saber"]
+  },
+  "diggie": {
+    "lane": "roam",
+    "weak": ["aldous", "helcurt", "hayabusa", "lancelot", "natalia"],
+    "strong": ["akai", "aurora", "chou", "eudora", "franco"]
+  },
+  "estes": {
+    "lane": "roam",
+    "weak": ["baxia", "eudora", "fanny", "freya", "luo_yi"],
+    "strong": ["alpha", "layla", "leomord", "rafaela", "cici"]
+  },
+  "floryn": {
+    "lane": "roam",
+    "weak": ["cecilion", "kagura", "natan", "paquito", "x_borg"],
+    "strong": ["carmilla", "cecilion", "luo_yi", "silvanna", "popol_and_kupa"]
+  },
+  "franco": {
+    "lane": "roam",
+    "weak": ["chou", "freya", "martis", "minsitthar", "valir"],
+    "strong": ["clint", "layla", "miya", "moskov", "eudora"]
+  },
+  
+
+  "hylos": {
+    "lane": "roam",
+    "weak": ["baxia", "karrie", "kimmy", "lesley", "valir"],
+    "strong": ["eudora", "natalia", "odette", "sun", "fanny"]
+  },
+  "johnson": {
+    "lane": "roam",
+    "weak": ["diggie", "esmeralda", "jawhead", "zhask", "grock"],
+    "strong": ["claude", "granger", "layla", "lesley", "miya"]
+  },
+  "kaja": {
+    "lane": "roam",
+    "weak": ["akai", "grock", "helcurt", "martis", "gusion"],
+    "strong": ["aurora", "chou", "fanny", "harley", "natalia"]
+  },
+  "kalea": {
+    "lane": "roam",
+    "weak": ["alpha", "guinevere", "minsitthar", "thamuz", "yin"],
+    "strong": ["fanny", "ling", "layla", "nolan", "lukas"]
+  },
+  "khufra": {
+    "lane": "roam",
+    "weak": ["baxia", "diggie", "valir", "wanwan"],
+    "strong": ["fanny", "gusion", "lancelot", "odette", "selena"]
+  },
+  "lolita": {
+    "lane": "roam",
+    "weak": ["akaj", "chou", "edith", "franco", "ruby"],
+    "strong": ["kadita", "layla", "miya", "moskov", "nana"]
+  },
+  "mathilda": {
+    "lane": "roam",
+    "weak": ["badang", "baxia", "franco", "vale", "wanwan"],
+    "strong": ["atlas", "barats", "brody", "esmeralda", "ling"]
+  },
+  "minotaur": {
+    "lane": "roam",
+    "weak": ["alpha", "aurora", "freya", "moskov", "nana"],
+    "strong": ["karina", "layla", "saber", "sun", "zilong"]
+  },
+  "natalia": {
+    "lane": "roam",
+    "weak": ["jawhead", "khufra", "rafaela", "saber", "hayabusa"],
+    "strong": ["eudora", "gord", "layla", "miya", "yi_sun_shin"]
+  },
+  "rafaela": {
+    "lane": "roam",
+    "weak": ["hayabusa", "karina", "moskov", "natalia", "saber"],
+    "strong": ["alice", "cyclops", "nana", "sun", "bane"]
+  },
+  "tigreal": {
+    "lane": "roam",
+    "weak": ["baxia", "eudora", "martis", "nana", "valir"],
+    "strong": ["layla", "rafaela", "sun", "ziling", "nolan"]
+  },
+
+
+
+  "beatrix": {
+  "lane": "gold",
+  "strong": ["luo_yi","estes","chip","hanabi","ixia"],
+  "weak": ["wanwan","granger","zhuxin","yve","khufra"],
+  "synergy": ["edith","zhask","fredrinn","atlas","aulus"]
+},
+
+"brody": {
+  "lane": "gold",
+  "strong": ["natalia","irithel","valentina","fanny","aldous"],
+  "weak": ["barats","masha","gloo","lesley"],
+  "synergy": ["estes","floryn","popol_and_kupa","hanzo","leomord"]
+},
+
+"bruno": {
+  "lane": "gold",
+  "strong": ["wanwan","fanny","irithel","claude","argus"],
+  "weak": ["luo_yi","popol_and_kupa","lolita","kaja","barats"],
+  "synergy": ["kaja","lylia","barats","ling","diggie"]
+},
+
+"claude": {
+  "lane": "gold",
+  "strong": ["lolita","ixia","khufra","atlas","yve"],
+  "weak": ["lesley","bruno","cyclops","edith","brody"],
+  "synergy": ["masha","angela","roger","nolan","khufra"]
+},
+
+"clint": {
+  "lane": "gold",
+  "strong": ["lolita","belerick","baxia","karina","irithel"],
+  "weak": ["fanny","chip","gloo","layla","diggie"],
+  "synergy": ["popol_and_kupa","roger","aulus","xavier","alice"]
+},
+
+"hanabi": {
+  "lane": "gold",
+  "strong": ["popol_and_kupa","tigreal","kalea","barats","khufra"],
+  "weak": ["beatrix","ixia","granger","natalia","hanzo"],
+  "synergy": ["lolita","popol_and_kupa","harley","tigreal","roger"]
+},
+
+"irithel": {
+  "lane": "gold",
+  "strong": ["benedetta","wanwan","hanzo","x_borg","minsitthar"],
+  "weak": ["bruno","miya","brody","masha","eudora"],
+  "synergy": ["valentina","masha","khufra","angela","fanny"]
+},
+
+"ixia": {
+  "lane": "gold",
+  "strong": ["estes","uranus","lolita","esmeralda","rafaela"],
+  "weak": ["hanzo","wanwan","kadita","claude","natalia"],
+  "synergy": ["diggie","faramis","popol_and_kupa","mathilda","zhuxin"]
+},
+
+"karrie": {
+  "lane": "gold",
+  "strong": ["alice","fredrinn","hylos","chip","terizla"],
+  "weak": ["rafaela","lolita","sun","argus","masha"],
+  "synergy": ["baxia","novaria","joy","yu_zhong","lylia"]
+},
+
+"layla": {
+  "lane": "gold",
+  "strong": ["irithel","diggie","rafaela","phoveus","kaja"],
+  "weak": ["atlas","chip","johnson","sun","helcurt"],
+  "synergy": ["popol_and_kupa","baxia","kaja","roger","rafaela"]
+},
+
+"lesley": {
+  "lane": "gold",
+  "strong": ["claude","gatotkaca","belerick","baxia","irithel"],
+  "weak": ["estes","sun","rafaela","mathilda","popol_and_kupa"],
+  "synergy": ["popol_and_kupa","roger","suyou","hanzo","edith"]
+},
+
+"melissa": {
+  "lane": "gold",
+  "strong": ["lolita","leomord","masha","alucard","sun"],
+  "weak": ["belerick","barats","yi_sun_shin","baxia","granger"],
+  "synergy": ["lolita","popol_and_kupa","fanny","paquito","lunox"]
+},
+
+"miya": {
+  "lane": "gold",
+  "strong": ["irithel","saber","moskov","obsidia","diggie"],
+  "weak": ["belerick","gatotkaca","barats","fredrinn","thamuz"],
+  "synergy": ["gloo","kadita","gord","fanny","yin"]
+},
+
+"moskov": {
+  "lane": "gold",
+  "strong": ["gloo","joy","hanzo","fanny","ling"],
+  "weak": ["miya","bruno","masha","karina","chip"],
+  "synergy": ["baxia","yve","khufra","phoveus","gloo"]
+},
+
+"natan": {
+  "lane": "gold",
+  "strong": ["gloo","sun","faramis","barats","zhask"],
+  "weak": ["kalea","lolita","arlott","irithel","diggie"],
+  "synergy": ["valentina","fanny","barats","natalia","chip"]
+},
+
+"obsidia": {
+  "lane": "gold",
+  "strong": ["miya","brody","tigreal","hylos","lukas"],
+  "weak": ["chou","saber","joy","guinevere","fanny"],
+  "synergy": ["angela","tigreal","eudora","rafaela","atlas"]
+},
+
+"wanwan": {
+  "lane": "gold",
+  "strong": ["gloo","atlas","yin","ixia","leomord"],
+  "weak": ["phoveus","bruno","cyclops","zhask","yi_sun_shin"],
+  "synergy": ["popol_and_kupa","angela","mathilda","yve","faramis"]
+}
+
+}
+
